@@ -24,3 +24,6 @@ for (int i = 0; i < leaks.size(); i++) {
 	sb.append("\r\n");
 }
 sb.toString();
+
+
+http://www.jianshu.com/p/ade24dd8cba6
